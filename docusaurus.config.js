@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'langfan94', // Usually your GitHub org/user name.
   projectName: 'langfan94.github.io', // Usually your repo name.
+  deploymentBranch: 'master',
 
   presets: [
     [
