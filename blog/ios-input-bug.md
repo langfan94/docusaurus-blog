@@ -1,7 +1,7 @@
 ---
 title: ios-input-bug
 date: 2018-11-28 10:43:04
-tags: [ios bug]
+tags: [ios, bug]
 ---
 
 # ios下fixed失效的原因
