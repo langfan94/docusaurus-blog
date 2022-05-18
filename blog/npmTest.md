@@ -156,7 +156,7 @@ npm WARN a@1.0.0 No repository field.
 
 npm sill install printInstalled
 npm timing audit submit Completed in 511ms
-npm http fetch POST 200 http://r.tnpm.oa.com/-/npm/v1/security/audits/quick 512ms
+npm http fetch POST 200 https://registry.yarnpkg.com/-/npm/v1/security/audits/quick 512ms
 npm timing audit body Completed in 2ms
 audited 2 packages in 0.565s
 found 0 vulnerabilities
