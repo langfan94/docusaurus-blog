@@ -45,3 +45,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ```
 $ yarn run crawler
 ```
+
+### New Markdown file in blog
+
+```
+$ yarn new <FileName>
+```
