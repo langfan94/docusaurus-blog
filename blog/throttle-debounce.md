@@ -1,7 +1,9 @@
 ---
 title: throttle && debounce
 date: 2018-05-10 11:00:50
-tags: []
+tags: [javascript]
+description: 防抖和截流
+keywords: [防抖, 截流]
 ---
 
 # javaScript 函数节流和去抖

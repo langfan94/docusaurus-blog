@@ -2,6 +2,8 @@
 title: golang函数可变数量参数传参
 date: 2022-08-04 17:15:26
 tags: [golang]
+description: golang函数可变数量参数传参
+keywords: [可变数量参数传参, 函数]
 ---
 
 # 函数可变数量参数传参

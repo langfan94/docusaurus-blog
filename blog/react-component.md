@@ -1,7 +1,9 @@
 ---
 title: react-component复用逻辑
 date: 2022-10-27 10:48:00
-tags: [javascript]
+tags: [javascript, react]
+description: react虚拟dom如何复用组件
+keywords: [复用, react, 组件复用]
 ---
 
 问题:

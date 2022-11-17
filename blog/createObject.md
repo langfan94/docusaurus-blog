@@ -1,7 +1,9 @@
 ---
 title: javascript 创建对象
 date: 2018-05-11 14:31:59
-tags: []
+tags: [javascript]
+description: js创建对象方法
+keywords: [前端, 创建对象, 构造函数, 原型, 寄生]
 ---
 
 # 创建对象

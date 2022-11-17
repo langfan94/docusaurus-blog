@@ -1,7 +1,9 @@
 ---
 title: gulp
 date: 2018-07-26 14:32:21
-tags: []
+tags: [gulp]
+description: gulp自动化构建工具
+keywords: [自动化构建]
 ---
 
 # gulp自动化构建工具

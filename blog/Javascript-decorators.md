@@ -2,6 +2,8 @@
 title: Javascript-decorators
 date: 2019-12-12 10:42:04
 tags: [decorators]
+description: 什么是装饰器
+keywords: [decorators, 装饰器]
 ---
 
 # Summary

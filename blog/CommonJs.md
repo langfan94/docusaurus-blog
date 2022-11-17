@@ -1,7 +1,9 @@
 ---
 title: CommonJs规范
 date: 2018-06-05 11:43:06
-tags: []
+tags: [node]
+description: 讲解CommonJs规范
+keywords: [前端, CommonJs规范]
 ---
 
 # CommonJs规范

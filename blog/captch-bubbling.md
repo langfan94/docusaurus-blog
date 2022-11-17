@@ -1,7 +1,9 @@
 ---
 title: js 冒泡和捕获事件
 date: 2018-06-06 11:32:22
-tags: []
+tags: [javascript]
+description: 浏览器冒泡和捕获事件
+keywords: [前端, 浏览器, 冒泡事件, 捕获事件]
 ---
 
 # 冒泡和捕获事件

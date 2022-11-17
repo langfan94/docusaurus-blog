@@ -1,7 +1,9 @@
 ---
 title: 冒泡排序和快速排序
 date: 2018-05-15 15:23:40
-tags: []
+tags: [javascript]
+description: 冒泡排序和快速排序
+keywords: [算法, 冒泡排序, 快速排序]
 ---
 
 # 冒泡排序

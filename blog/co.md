@@ -1,7 +1,9 @@
 ---
 title: co
 date: 2019-12-05 18:24:31
-tags: [generator]
+tags: [generator， javascript]
+description: 前端generator函数使用
+keywords: [前端, generator函数]
 ---
 
 # generator function 

@@ -2,6 +2,8 @@
 title: golang/Mutex
 date: 2019-12-26 15:56:47
 tags: [golang]
+description: golang/Mutex的用法
+keywords: [Mutex的用法, 互斥锁]
 ---
 
 # Mutex

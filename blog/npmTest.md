@@ -2,6 +2,8 @@
 title: npmTest
 date: 2021-12-28 15:08:14
 tags: [node]
+description: 本地多个包相互依赖，如何去本地npm安装并测试
+keywords: [相互依赖, npm安装, 测试]
 ---
 
 # 前言

@@ -1,7 +1,9 @@
 ---
 title: js面试题 读取target[0].a
 date: 2022-05-18 16:51:59
-tags: []
+tags: [javascript]
+description: js面试题 读取target[0].a
+keywords: [面试题, 正则匹配]
 ---
 
 ## 题目

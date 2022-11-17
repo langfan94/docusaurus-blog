@@ -2,6 +2,8 @@
 title: input_iview
 date: 2018-09-29 18:58:12
 tags: [iview, javascript]
+description: 如何实现数据双向绑定
+keywords: [数据双向绑定, iview]
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 title: git-reset
 date: 2018-05-10 11:54:29
-tags: []
+tags: [git]
+description: git-reset用法
+keywords: [快照, git-reset]
 ---
 
 # git reset

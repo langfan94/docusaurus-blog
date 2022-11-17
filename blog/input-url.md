@@ -1,7 +1,9 @@
 ---
 title: 从输入URL到页面加载完成的过程中都发生了什么
 date: 2018-05-28 10:38:20
-tags: []
+tags: [javascript]
+description: 从输入URL到页面加载完成的过程中都发生了什么
+keywords: [url, 浏览器加载]
 ---
 
 # 从输入URL到页面加载完成的过程中都发生了什么?

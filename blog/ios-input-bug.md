@@ -2,6 +2,8 @@
 title: ios-input-bug
 date: 2018-11-28 10:43:04
 tags: [ios, bug]
+description: ios下fixed失效的原因
+keywords: [fixed失效, 软键盘]
 ---
 
 # ios下fixed失效的原因

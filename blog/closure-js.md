@@ -1,7 +1,9 @@
 ---
 title: 闭包
 date: 2018-05-21 11:50:48
-tags: []
+tags: [javascript]
+description: 闭包与变量
+keywords: [前端, 闭包, 变量]
 ---
 
 # 闭包

@@ -1,7 +1,9 @@
 ---
 title: How to write your own Virtual DOM
 date: 2018-06-13 14:26:50
-tags: []
+tags: [javascript]
+description: 虚拟dom实现
+keywords: [虚拟dom]
 ---
 
 # How to write your own Virtual DOM

@@ -2,6 +2,8 @@
 title: Task-job
 date: 2022-06-23 15:19:31
 tags: [javascript]
+description: 什么是事件循环
+keywords: [事件循环, 任务队列, 宏任务, 微任务]
 ---
 
 ```js

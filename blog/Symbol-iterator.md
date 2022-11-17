@@ -1,7 +1,9 @@
 ---
 title: Symbol.iterator
 date: 2018-06-01 16:15:16
-tags: []
+tags: [javascript]
+description: Symbol.iterator用法
+keywords: [Symbol.iterator]
 ---
 
 # Symbol.iterator

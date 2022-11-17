@@ -1,7 +1,9 @@
 ---
 title: Object.defineProperty
 date: 2018-05-10 10:57:23
-tags: []
+tags: [javascript]
+description: Object.defineProperty用法
+keywords: [Object.defineProperty, 前端]
 ---
 
 # Object.defineProperty()

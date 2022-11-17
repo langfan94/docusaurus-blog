@@ -2,6 +2,8 @@
 title: two-eggs
 date: 2020-03-20 18:07:38
 tags: [C++, javascript]
+description: 双蛋问题解决办法
+keywords: [双蛋问题, 动态规划]
 ---
 
 # Two Egg Problem

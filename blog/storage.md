@@ -1,7 +1,9 @@
 ---
 title: 数据存储
 date: 2018-06-27 10:44:09
-tags: []
+tags: [javascript]
+description: 数据存储
+keywords: [浏览器, Cookie, sessionStorage, localStorage]
 ---
 
 # 数据存储

@@ -1,7 +1,9 @@
 ---
 title: 跨域技术
 date: 2018-06-21 14:45:29
-tags: []
+tags: [javascript， jsonp]
+description: 前端如何实现跨域请求
+keywords: [前端, 跨域请求, jsonp]
 ---
 
 # 其他跨域技术
