@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "crawler": "docker run -it --env-file=.env -e \"CONFIG=$(cat docsearch.json | jq -r tostring)\" algolia/docsearch-scraper",
-    "new": "node ./generateMd.js --create"
+    "new": "cr-markdown"
   },
   "dependencies": {
     "@docusaurus/core": "2.2.0",
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cr-markdown": "^1.0.7"
   }
 }
